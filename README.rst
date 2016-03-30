@@ -3,8 +3,8 @@ Sort Customer Invoice Lines
 
 This is an extension of the module account_invoice_line_sort developed by Cédric Pigeon <cedric.pigeon@acsone.eu>
 (https://apps.openerp.com/apps/modules/8.0/account_invoice_line_sort/).
-In assciation with l10n_it_fattura-differita
-(https://github.com/digibro/odoo_examples/tree/master/l10n_it_fattura-differita developed by gigidn)
+In assciation with stock_picking_invoice_link
+(https://github.com/OCA/stock-logistics-workflow/tree/8.0/stock_picking_invoice_link)
 you can sort invoice lines by DDT reference in reports.
 
 
